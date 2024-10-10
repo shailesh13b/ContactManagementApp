@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 0,
+    "FirstName": "Alex",
+    "LastName": "BlaBla",
+    "Email": "alex.blabla@aol.at",
+    "Phone": "1234567890"
+  },
+  {
+    "Id": 1,
+    "FirstName": "Otto",
+    "LastName": "Blubb",
+    "Email": "otto.blubb@dsl.de",
+    "Phone": "2345678901"
+  },
+  {
+    "Id": 2,
+    "FirstName": "Peter",
+    "LastName": "Pan",
+    "Email": "peter.pan@neverland.com",
+    "Phone": "3456789012"
+  }
+]
